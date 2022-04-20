@@ -1,0 +1,7 @@
+1. Nama Wilayah : DKI JAKARTA, JAWA BARAT, BANTEN, JAWA TENGAH
+2. Jumlah Positif : 1.245.653 (DKI JAKARTA)
+3. Jumlah Dirawat : 411 (DKI JAKARTA)
+4. Jumlah Meninggal : 15.244 (DKI JAKARTA)
+5. Jumlah Sembuh : 1.227.793 (DKI JAKARTA)
+6. Nama Operatot : JUANDI
+7. NIM Mahasiswa : 181011450494
